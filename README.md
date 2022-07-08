@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liontara&show_icons=true&locale=en&layout=compact" alt="liontara" /></p>
 
-<p>&nbsp;<img align="center" padding-top = "20" src="https://github-readme-stats.vercel.app/api?username=liontara&show_icons=true&locale=en" alt="liontara" /></p>
+<p>&nbsp;<img align="center" padding-top = "20px" src="https://github-readme-stats.vercel.app/api?username=liontara&show_icons=true&locale=en" alt="liontara" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liontara&" alt="liontara" /></p>
