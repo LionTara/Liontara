@@ -19,4 +19,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liontara&show_icons=true&locale=en" alt="liontara" /></p>
 
+.markdown-body img[align=left] {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liontara&" alt="liontara" /></p>
