@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Welcome%20&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi, I'm Lion</h1>
+<h1 align="center">Welcome to my git :)</h1>
 
 
 
