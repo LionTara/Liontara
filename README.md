@@ -2,8 +2,6 @@
 
 
 
-- 🌱 I’m currently learning **React, Angular, Springboot**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
